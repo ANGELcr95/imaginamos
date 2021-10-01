@@ -1,0 +1,37 @@
+.Titule {
+   width: 100%;
+   display: flex;
+   justify-content:space-between;
+}
+
+
+.Titule h3 img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.Titule button {
+    background-color: rgb(255, 136, 0);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+.Titule button span{
+    margin:auto 0.5rem;
+}
+
+.Titule button img{
+    width: 1rem;
+    height: 1rem;
+}
+
+.FoodName {
+    display: flex;
+    justify-content: space-between;
+}
+
+.FoodName img{
+    width: 0.8rem;
+}

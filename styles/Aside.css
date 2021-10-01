@@ -1,0 +1,72 @@
+.Aside {
+    background-color: rgb(249, 249, 249);
+    color: black;
+}
+.Count{
+    margin-top: 5rem;
+}
+
+.CountOrder  {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.CountOrder img {
+    width: 1rem;
+}
+
+.Count img {
+    width: 1rem;
+}
+
+.NumberOrder{
+    background-color: rgb(253, 220, 109);
+    border-radius: 0.5rem;
+    width: 2.3rem;
+    height: 2.3rem;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    margin-left: 1rem;
+}
+.NumberOrder b{
+    margin: auto;
+}
+
+.AsideTime {
+    background-color: blueviolet;
+    border-radius: 1rem;
+    color: white;
+    height: 7rem;
+
+}
+.AsideTimeEdit {
+}
+
+.AsideTimeChooseImg img{
+    width: 1rem;
+    height: 1rem;
+}
+
+.AsideTimeChoose div p{
+    margin: 0;
+}
+
+.AsideTimeChoose {
+    width: 1rem;
+}
+
+.AsideTimeChoose div p{
+    margin-left: 0;
+}
+
+.AmountFood {
+    margin-top: 3rem;
+}
+
+.AmountFood div img{
+    margin: auto;
+}
+
